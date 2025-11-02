@@ -1,0 +1,1 @@
+export { default as HeroPrompt } from './components/HeroPrompt';

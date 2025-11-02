@@ -1,0 +1,1 @@
+export { SignInPage, Testimonial } from '../sign-in';
